@@ -6,7 +6,7 @@
 #!openUrl=https://raw.githubusercontent.com/yqc007/QuantumultX/master
 
 [MITM]
-hostname = %APPEND% *.docer.wps.cn,vipapi.wps.cn,account.wps.cn
+hostname = %APPEND% *.docer.wps.cn, vipapi.wps.cn, account.wps.cn
 
 [Script]
 稻壳会员1=type=http-response,pattern=^https?:\/\/account\.wps\.cn\/api\/v3\/mine\/vips,requires-body=1,script-path=https://raw.githubusercontent.com/ytxujing/Jasper/refs/heads/master/Shadowrocket/Script/WPSuperVIPuserCrack.js
