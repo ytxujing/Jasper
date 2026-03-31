@@ -6,7 +6,7 @@
 #!openUrl=多个，需要查看见上面主页把。
 
 [MITM]
-hostname= %APPEND% app.bilibili.com,api.live.bilibili.com,api.vc.bilibili.com, api.bilibili.com, manga.bilibili.com, grpc.biliapi.net,api.biliapi.net, -broadcast.chat.bilibili.com, -*cdn*.biliapi.net, -*tracker*.biliapi.net
+hostname= %APPEND% app.bilibili.com, api.live.bilibili.com, api.vc.bilibili.com, api.bilibili.com, manga.bilibili.com, grpc.biliapi.net,api.biliapi.net, -broadcast.chat.bilibili.com, -*cdn*.biliapi.net, -*tracker*.biliapi.net
 
 [URL Rewrite]
 #～BiliBili_哔哩哔哩_屏蔽IP请求@ddgksf2013
