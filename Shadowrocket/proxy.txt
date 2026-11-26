@@ -1,1 +1,4 @@
-
+# ======= 网站走代理（黑名单） ======= #
+DOMAIN-SUFFIX,akile.io
+DOMAIN-SUFFIX,speedtest.net
+DOMAIN-SUFFIX,v2rayssr.com
